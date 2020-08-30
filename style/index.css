@@ -67,6 +67,17 @@ body {
   width: 28px;
 }
 
+.flex-container {
+  display: flex;
+  width: 100%;
+}
+
+.flex-container>* {
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 0;
+}
+
 /* ================================= Menu Btn ================================= */
 
 #open-menu-btn {
@@ -91,6 +102,40 @@ body {
   font-weight: 900;
   margin-bottom: 50px;
   letter-spacing: 1.3px;
+}
+
+#temperature-summary-container {
+  align-items: center;
+}
+
+#temperature-summary-container>div:nth-child(2) {
+  text-align: center;
+}
+
+#degrees-label {
+  font-size: 60px;
+  font-weight: 900;
+}
+
+#summary-label {
+  font-size: 30px;
+}
+
+#humidity-wind-container {
+  position: absolute;
+  bottom: 30px;
+  text-align: center;
+  left: 0;
+}
+
+#humidity-wind-container>div img {
+  vertical-align: middle;
+  position: relative;
+  top: -3px;
+}
+
+#humidity-wind-container>div span {
+  font-size: 18px;
 }
 
 /* ================================= Loader ================================= */
