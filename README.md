@@ -18,17 +18,30 @@ Codes for ...
 
 #### Dark Sky alternatives
 
-[Top 6 Best Free Weather APIs to Access Global Weather Data (Updated for 2020)](https://rapidapi.com/blog/access-global-weather-data-with-these-weather-apis/)
+- [ ] [Top 6 Best Free Weather APIs to Access Global Weather Data (Updated for 2020)](https://rapidapi.com/blog/access-global-weather-data-with-these-weather-apis/)
+
+## Setup
+
+### Remote Debugging
+
+#### Firefox
+
+- [ ] [Remote Debugging](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging)
+
+- [ ] [about:debugging](https://developer.mozilla.org/en-US/docs/Tools/about:debugging)
+
+- [ ] [SDK Platform Tools release notes](https://developer.android.com/studio/releases/platform-tools)
+  - [ ] [Android Debug Bridge (adb)](https://developer.android.com/studio/command-line/adb)
 
 ### Issues
 
 #### Web fonts
 
-[Troubleshooting](https://developers.google.com/fonts/docs/troubleshooting)
+- [ ] [Troubleshooting](https://developers.google.com/fonts/docs/troubleshooting)
 
-[Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [ ] [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
-[HTTP Header Live](https://addons.mozilla.org/en-US/firefox/addon/http-header-live/)
+- [ ] [HTTP Header Live](https://addons.mozilla.org/en-US/firefox/addon/http-header-live/)
 
 ## TODO
 
