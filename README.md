@@ -19,3 +19,17 @@ Codes for ...
 #### Dark Sky alternatives
 
 [Top 6 Best Free Weather APIs to Access Global Weather Data (Updated for 2020)](https://rapidapi.com/blog/access-global-weather-data-with-these-weather-apis/)
+
+### Issues
+
+#### Web fonts
+
+[Troubleshooting](https://developers.google.com/fonts/docs/troubleshooting)
+
+[Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+
+[HTTP Header Live](https://addons.mozilla.org/en-US/firefox/addon/http-header-live/)
+
+## TODO
+
+- [ ] [Web fonts issue](#web-fonts)
