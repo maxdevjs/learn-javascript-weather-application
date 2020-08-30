@@ -40,14 +40,39 @@
           <p id="summary-label">Clear Day</p>
         </div>
       </div>
+      <!-- humidity and wind speed -->
       <div class="flex-container" id="humidity-wind-container">
+        <!-- humidity -->
         <div>
           <img class="icon-sm-30" src="./assets/images/icons/humidity.png" alt="Humidity">
           <span>20%</span>
         </div>
+        <!-- wind -->
         <div>
           <img class="icon-sm-30" src="./assets/images/icons/wind-speed-flag.png" alt="Wind">
           <span>20 Kms / h</span>
+        </div>
+      </div>
+    </section>
+    <!-- lower panel -->
+    <section class="lower-panel">
+      <button id="toggle-hourly-weather" class="ripple center_x">
+        <img src="./assets/images/icons/up-arrow.png" alt="Slide hourly weather panel">
+      </button>
+      <!-- daily weather -->
+      <div id="daily-weather-wrapper" class="lower-panel-body">
+        <div class="flex-container weather-box current-day-of-the-week">
+          <div>
+            <h1>Sunday</h1>
+          </div>
+          <div class="flex-container">
+            <div>
+              <p>18&#176;</p>
+            </div>
+            <div>
+              <img class="icon-sm-30" src="./assets/images/summary-icons/clear-day-white.png" alt="">
+            </div>
+          </div>
         </div>
       </div>
     </section>
