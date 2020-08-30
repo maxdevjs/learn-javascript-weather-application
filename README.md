@@ -10,3 +10,10 @@ Codes for ...
 
 [LCD-Weather-Panel](https://github.com/GeoPablo/LCD-Weather-Panel)
 
+## Resources
+
+### API
+
+#### Dark Sky alternatives
+
+[Top 6 Best Free Weather APIs to Access Global Weather Data (Updated for 2020)](https://rapidapi.com/blog/access-global-weather-data-with-these-weather-apis/)
