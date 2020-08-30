@@ -2,6 +2,8 @@
 
 Codes for ...
 
+[Check the demo](https://maxdevjs.github.io/learn-javascript-weather-application/)
+
 [Weather email notifier](https://github.com/GeoPablo/cc_weather_monitor_and_email_notifier)
 
 [Solutions](https://github.com/GeoPablo/Weather-App-Solutions)
